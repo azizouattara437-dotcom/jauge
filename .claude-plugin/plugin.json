@@ -1,0 +1,1 @@
+{ "name": "jauge", "version": "0.2.0", "description": "Bandeau au-dessus du prompt : contexte, limites 5 h et 7 j, coût estimé. /jauge l'active ou le désactive.", "author": { "name": "Aziz Ouattara" }, "types": "./types/index.d.ts" }
