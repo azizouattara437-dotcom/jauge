@@ -1,0 +1,5 @@
+{
+  "name": "jauge",
+  "owner": { "name": "Aziz Ouattara" },
+  "plugins": [{ "name": "jauge", "source": "./" }]
+}
